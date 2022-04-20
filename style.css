@@ -12,3 +12,15 @@
   height: auto;
   width: 400px;
 }
+
+.ingredients{
+  color: red;
+  font-family: Verdana, "Times New Roman", sans-serif;
+  background-color: green;
+}
+
+.steps{
+  color: blue;
+  background-color: yellow;
+  font-family: Verdana, "Times New Roman", sans-serif;
+}
